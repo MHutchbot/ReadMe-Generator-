@@ -4,7 +4,7 @@
 
   # readme
   ## Description
-  Read me generator for DU bootcamp
+ A simple readme generator for your github project.
 
   ## Table of Contents
   - [Usage](#Usage)
@@ -15,7 +15,10 @@
   - [Questions](#Questions)
 
   ## Usage
-  n/a
+  To run the generator you will need a command line program of your choosing to run node
+  
+  Dependancies:
+  npm 
 
   ## Test
   npm test
