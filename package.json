@@ -1,0 +1,16 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "![Badge for License](https://img.shields.io/badge/License-MIT%20License-green)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "inquirer-prompt-suggest": "^0.1.0"
+  },
+  "devDependencies": {}
+}
